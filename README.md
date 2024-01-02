@@ -2,7 +2,7 @@
 - 👀 I’m interested in Climate, Land, Energy, and Water Systems Modeling (CLEWS)
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on CLEWS modeling
-- 📫 How to reach me - geoffreymwango@gmail.com
+- 📫 How to reach me - geoffreymwango23@gmail.com
 
 <!---
 GeoffreyMwango/GeoffreyMwango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
